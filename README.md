@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 I am Alexey, **ML & NLP Engineer from Saint-Petersburg, Russia**.
+💻 I am Alexey, **ML & NLP Engineer from Saint-Petersburg**.
 
 👨‍🎓 I hold a bachelor degree in Mathematics and Mechanics from Peter the Great St. Petersburg Polytechnic University, where I maintained an excellent academic record (GPA 4.7). Currently **studying AI at ITMO University** - the best Russian university in the Data Science & Artificial Intelligence category of the QS World University Rankings.
 
