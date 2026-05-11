@@ -1,15 +1,16 @@
 ## Hi there 👋
-💻 I am Alexey, **ML & NLP Engineer from Saint-Petersburg**.
 
-👨‍🎓 I hold a bachelor degree in Mathematics and Mechanics from Peter the Great St. Petersburg Polytechnic University, where I maintained an excellent academic record (GPA 4.7). Currently **studying AI at ITMO University** - the best Russian university in the Data Science & Artificial Intelligence category of the QS World University Rankings.
+💻 I am Alexey, an **AI Engineer from Saint Petersburg** specializing in **LLMs, RAG, and agentic systems**.
 
-💼 My experience includes **internship at Tinkoff Bank**, one of the largest banks in Russia, where I developed practical skills in data science and machine learning. I enhanced data platform accessibility, created visualization materials across frameworks, and implemented an NLP-based knowledge base search system.  I’m also developed an **AI code assistant with IDE integration at Huawei**, improving ranking metrics by 20–30%, building LLM benchmarks for RAG, and automating data workflows. Now I am developing **industrial projects in ITMO University**'s lab.
+👨‍🎓 I hold a bachelor's degree in Mechanics and Mathematical Modeling from Peter the Great St. Petersburg Polytechnic University (GPA 4.7/5.0). Currently I'm pursuing a **Master's in Artificial Intelligence at ITMO University** (GPA 4.85/5.0) — the leading Russian university in the QS World University Rankings for Data Science & Artificial Intelligence. I've also completed the **Summer Program in AI at Beijing Institute of Technology** and the **Raising AI Wisdom Workshop in Zürich**, covering transformers, LLMs, and prompt engineering.
 
-📌 I have participated in tech competitions and professional courses. I was a **winner at ITMO University's AI School** and placed second in the "I Am a Professional" ML case competition from Yandex company. Also I have successfully completed my studies at the **Avito Analytics Academy on the DS track**.
+💼 At **ITMO Industrial Research Lab**, I'm building a multi-agent assistant for enterprise document search and process automation. I designed a CodeAct sub-agent for tabular analytics on pandas that combines code generation for deterministic operations with LLM calls for semantic tasks, and built an evaluation benchmark for AI agents working with tabular data. Previously, I developed an **uplift-analysis agent** with explanations grounded in RAG, causal graphs, and statistical models. Earlier, at **Huawei Russian Research Center**, I built an IDE-integrated AI assistant for large-scale codebase navigation, improving retrieval and ranking quality by 20% across Precision, Recall, and NDCG, and reducing deployment cycle time by 15%.
 
-🚀 I am eager to contribute my skills and enthusiasm to innovative projects, with a focus on leveraging AI and machine learning to solve real-world challenges. **I open for joining new projects**. I will be very happy to collaborate with you if you develop modern projects in ML.
+📌 I'm a **recipient of the Russian Government Scholarship**, a **Vladimir Potanin Foundation Scholarship winner**, and a finalist at the **Avito MI Cup 2025**. I also placed 2nd out of 50+ teams at the AI Product Hack on RAG assistants.
 
-📫 How to reach me: you can write me on my e-mail, **alexey.kornelyuk@yandex.ru**.
+🚀 I'm passionate about applying LLMs and agentic systems to real-world industrial challenges. **Open to collaboration** on projects involving RAG, multi-agent systems, document understanding, and evaluation frameworks.
+
+📫 How to reach me: **alexey.kornelyuk@ya.ru** • [Telegram](https://t.me/all_lyuk)
 
 <!--
 **alllyuk/alllyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
