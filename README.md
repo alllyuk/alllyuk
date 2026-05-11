@@ -6,7 +6,7 @@
 
 💼 At **ITMO Industrial Research Lab**, I'm building a multi-agent assistant for enterprise document search and process automation. I designed a CodeAct sub-agent for tabular analytics on pandas that combines code generation for deterministic operations with LLM calls for semantic tasks, and built an evaluation benchmark for AI agents working with tabular data. Previously, I developed an **uplift-analysis agent** with explanations grounded in RAG, causal graphs, and statistical models. Earlier, at **Huawei Russian Research Center**, I built an IDE-integrated AI assistant for large-scale codebase navigation, improving retrieval and ranking quality by 20% across Precision, Recall, and NDCG, and reducing deployment cycle time by 15%.
 
-📌 I'm a **recipient of the Russian Government Scholarship**, a **Vladimir Potanin Foundation Scholarship winner**, and a finalist at the **Avito MI Cup 2025**. I also placed 2nd out of 50+ teams at the AI Product Hack on RAG assistants.
+📌 Finalist at the **Avito MI Cup 2025** and placed 2nd out of 50+ teams at the **AI Product Hack** on RAG assistants.
 
 🚀 I'm passionate about applying LLMs and agentic systems to real-world industrial challenges. **Open to collaboration** on projects involving RAG, multi-agent systems, document understanding, and evaluation frameworks.
 
